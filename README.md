@@ -1,1 +1,1 @@
-<img src="https://github.com/jaypatel3382/analogClock-Date-Time/blob/main/asset/output.png" alt="error" />
+<img src="https://github.com/developerjay18/analog-watch/blob/main/asset/output.png" alt="error" />
